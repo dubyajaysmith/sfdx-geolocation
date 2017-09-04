@@ -50,10 +50,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1504511667223,
-            "changeTime": 1504511667223,
+            "modifiedTime": 1504513136512,
+            "changeTime": 1504513136512,
             "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -892,14 +892,14 @@
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 230,
             "modifiedTime": 1504511765015,
             "changeTime": 1504511765015,
-            "contentHash": "bb54a2ab7050e4298cf511482cde41b8e60cd18a"
+            "contentHash": "bb54a2ab7050e4298cf511482cde41b8e60cd18a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1061,14 +1061,14 @@
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 396,
-            "modifiedTime": 1504511020307,
-            "changeTime": 1504511020307,
-            "contentHash": "1b91252886d2447a7b894a7b041830341f251951",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 478,
+            "modifiedTime": 1504513241334,
+            "changeTime": 1504513241334,
+            "contentHash": "3d82e843d117d57247ab426b1ba23f2cab6dd6d0"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1504511055759,
-            "changeTime": 1504511055759,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 395,
+            "modifiedTime": 1504513276027,
+            "changeTime": 1504513276027,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -1256,14 +1256,14 @@
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1504511667232,
             "changeTime": 1504511667232,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1273,36 +1273,36 @@
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 300,
-            "modifiedTime": 1504511696198,
-            "changeTime": 1504511696199,
-            "contentHash": "24c62722b6382b18225d32f1a8eb95af80493317"
+            "size": 338,
+            "modifiedTime": 1504513310138,
+            "changeTime": 1504513310138,
+            "contentHash": "ec5529a3323b27f08ad19b8bc1f34677cc618712"
         }
     ],
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1504511667228,
             "changeTime": 1504511667228,
-            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403"
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1504511733582,
             "changeTime": 1504511733583,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1312,36 +1312,75 @@
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 389,
-            "modifiedTime": 1504511713628,
-            "changeTime": 1504511713628,
-            "contentHash": "96df2bbc44d6a1cc778c826039135b3cba593eaa"
+            "size": 819,
+            "modifiedTime": 1504513492523,
+            "changeTime": 1504513492522,
+            "contentHash": "526b93cc47f7991c15e21b7acc292b8f5904928f"
         }
     ],
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1504511667230,
             "changeTime": 1504511667230,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1504511667233,
             "changeTime": 1504511667233,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504513136515,
+            "changeTime": 1504513136515,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1504513198429,
+            "changeTime": 1504513198429,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dubya\\repo\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1504513136517,
+            "changeTime": 1504513136517,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
         }
     ]
 ]

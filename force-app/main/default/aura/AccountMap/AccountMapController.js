@@ -19,4 +19,4 @@
             L.marker(latLng, {account: account}).addTo(map);
         }  
     }
- })
+ });
